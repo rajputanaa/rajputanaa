@@ -13,7 +13,7 @@
 - 🔐 I love working on **secure APIs** — JWT auth, RBAC, OAuth2
 - 🌱 Currently sharpening my skills in **AWS** and **MongoDB**
 - 🎓 B.Tech in Computer Science & Big Data Analytics, SSTC (2021–2025)
-- 📫 Reach me: **your.email@gmail.com**
+- 📫 Reach me: **adityasinghrajput62666@gmail.com**
 - ⚡ Fun fact: I enjoy turning ideas into working CRUD apps overnight
 
 ---
